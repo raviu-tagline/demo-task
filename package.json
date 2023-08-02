@@ -12,7 +12,6 @@
     "react-scripts": "5.0.1",
     "react-select": "^5.7.4",
     "react-tag-autocomplete": "6.3.0",
-    "react-tag-input": "^6.8.1",
     "web-vitals": "^2.1.0"
   },
   "scripts": {
